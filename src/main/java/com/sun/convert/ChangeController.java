@@ -1,7 +1,6 @@
 package com.sun.convert;
 
-import com.sun.convert.VO.ConvertVO;
-import com.sun.convert.bean.Convertrate;
+import com.sun.convert.vo.ConvertVO;
 import com.sun.convert.service.ConvertService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
