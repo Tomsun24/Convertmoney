@@ -1,7 +1,6 @@
 package com.sun.convert.service;
 
-import com.sun.convert.VO.ConvertVO;
-import com.sun.convert.bean.Convertrate;
+import com.sun.convert.vo.ConvertVO;
 
 import java.util.Map;
 

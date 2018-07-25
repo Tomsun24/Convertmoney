@@ -1,4 +1,4 @@
-package com.sun.convert.VO;
+package com.sun.convert.vo;
 
 import lombok.Data;
 

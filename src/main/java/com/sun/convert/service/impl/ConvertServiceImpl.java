@@ -1,6 +1,6 @@
 package com.sun.convert.service.impl;
 
-import com.sun.convert.VO.ConvertVO;
+import com.sun.convert.vo.ConvertVO;
 import com.sun.convert.bean.Convertrate;
 import com.sun.convert.mapper.ConvertRateMapper;
 import com.sun.convert.service.ConvertService;
